@@ -1,0 +1,1 @@
+This simple page generates three (3) additional images from an external source evertime the load more button is clicked.
